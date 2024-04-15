@@ -1,10 +1,47 @@
 .logo {
-    width: 150px;
+    width: 170px;
+    height: 60px;
 }
 header {
-    background-color: aqua;
-    padding: 15px;
+    background-color:#9CD6F4;
+padding: 15px;
 }
 body{
     margin: 0;
+
+}
+section{
+    padding: 15px;
+}
+.subtitle{
+    margin:0;
+    color: gray;
+    font-size: 15px;
+}
+.subtitle-data{
+    margin: 0;
+    color: gray;
+    font-size: 10px;
+}
+
+#text-title{
+    margin-bottom: 0;
+    font-size: xx-large;
+}
+#the-booleaner{
+    color: #4EB5FF;
+}
+
+#data{
+    font-size: 10px;
+}
+figure{
+    margin: 0;
+    padding: 15px;
+}
+#img-palestra{
+    width: 30%;
+}
+#img-wikimedia{
+    width: 25.7%;
 }
