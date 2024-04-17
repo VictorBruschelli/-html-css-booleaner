@@ -41,7 +41,22 @@ figure{
 }
 #img-palestra{
     width: 30%;
+    margin-top: 15px;
 }
 #img-wikimedia{
     width: 25.7%;
+    margin-top: 15px;
+}
+#subimg{
+    margin: 0;
+    font-size: x-small;
+}
+#text{
+    margin-top: 0px;
+}
+ul{
+    padding-left: 15px;
+}
+#color{
+    background-color:yellow ;
 }
