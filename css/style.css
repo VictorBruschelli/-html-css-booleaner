@@ -60,3 +60,24 @@ ul{
 #color{
     background-color:yellow ;
 }
+.sezione-tabella table{
+    text-align: left;
+}
+.sezione-tabella table thead{
+    background-color: #7FA6FB;
+    color: white;
+}
+.sezione-tabella table thead .main-col{
+    width: 50%;
+}
+.odd{
+    background-color: #DFE5F2;
+}
+.tfoot{ 
+    background-color: #313A6B;
+    margin: 0%;
+    padding: 15px;
+    color: white;
+    font-size: x-small;
+    text-align: center;
+}
